@@ -1,0 +1,281 @@
+{
+  "vaultName": "project",
+  "lastExport": 1723438749379,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "_images/20240812025820.png",
+    "_images/20240812030008.png",
+    "_images/20240812031008.png",
+    "_images/20240812031229.png",
+    "_images/20240812033607.png",
+    "_images/20240812033854.png",
+    "_images/20240812033859.png",
+    "_images/image.png",
+    "_images/image-1.png",
+    "7/Английский.md",
+    "7/Переходи на Linux!.md",
+    "7/GIT.md",
+    "1. Выбираем язык программирования.md",
+    "2. Установка ЯП.md",
+    "3. Установка IDE.md",
+    "4. Учим базу выбранного ранее ЯП.md",
+    "5. Делай свои проекты.md",
+    "6. Решения задач на логику, алгоритмы и структуры данных.md",
+    "7. Параллельно изучаем технологии, которые пригодятся в карьере.md",
+    "404.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "_images/20240812025820.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 54818,
+      "exportedPath": "_images/20240812025820.png",
+      "dependencies": []
+    },
+    "_images/20240812030008.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 32674,
+      "exportedPath": "_images/20240812030008.png",
+      "dependencies": []
+    },
+    "_images/20240812031008.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 617,
+      "exportedPath": "_images/20240812031008.png",
+      "dependencies": []
+    },
+    "_images/20240812031229.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 77439,
+      "exportedPath": "_images/20240812031229.png",
+      "dependencies": []
+    },
+    "_images/20240812033607.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 75531,
+      "exportedPath": "_images/20240812033607.png",
+      "dependencies": []
+    },
+    "_images/20240812033854.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 17990,
+      "exportedPath": "_images/20240812033854.png",
+      "dependencies": []
+    },
+    "_images/20240812033859.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 34695,
+      "exportedPath": "_images/20240812033859.png",
+      "dependencies": []
+    },
+    "_images/image.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 452364,
+      "exportedPath": "_images/image.png",
+      "dependencies": []
+    },
+    "_images/image-1.png": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 353701,
+      "exportedPath": "_images/image-1.png",
+      "dependencies": []
+    },
+    "7/Английский.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 5176,
+      "exportedPath": "7/Английский.html",
+      "dependencies": []
+    },
+    "7/Переходи на Linux!.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 1605,
+      "exportedPath": "7/Переходи на Linux!.html",
+      "dependencies": []
+    },
+    "7/GIT.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 1789,
+      "exportedPath": "7/GIT.html",
+      "dependencies": []
+    },
+    "1. Выбираем язык программирования.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 1451,
+      "exportedPath": "1. Выбираем язык программирования.html",
+      "dependencies": []
+    },
+    "2. Установка ЯП.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 2115,
+      "exportedPath": "2. Установка ЯП.html",
+      "dependencies": []
+    },
+    "3. Установка IDE.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 7194,
+      "exportedPath": "3. Установка IDE.html",
+      "dependencies": []
+    },
+    "4. Учим базу выбранного ранее ЯП.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 4570,
+      "exportedPath": "4. Учим базу выбранного ранее ЯП.html",
+      "dependencies": []
+    },
+    "5. Делай свои проекты.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 3991,
+      "exportedPath": "5. Делай свои проекты.html",
+      "dependencies": []
+    },
+    "6. Решения задач на логику, алгоритмы и структуры данных.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 1035,
+      "exportedPath": "6. Решения задач на логику, алгоритмы и структуры данных.html",
+      "dependencies": []
+    },
+    "7. Параллельно изучаем технологии, которые пригодятся в карьере.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 2456,
+      "exportedPath": "7. Параллельно изучаем технологии, которые пригодятся в карьере.html",
+      "dependencies": []
+    },
+    "404.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 141,
+      "exportedPath": "404.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1723438749379,
+      "sourceSize": 998,
+      "exportedPath": "index.html",
+      "dependencies": []
+    }
+  }
+}
