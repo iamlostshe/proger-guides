@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80c825a8311d93ec",
+        "id": "4b11cbe895488abf",
         "type": "tabs",
         "children": [
           {
-            "id": "1fadc69823f85d79",
+            "id": "de11efd031caaa0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2. Установка ЯП.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "575f36cd5201e68a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2. Установка ЯП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2. Установка ЯП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2. Установка ЯП.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,56 +148,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "76a1a607598b23a8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8f66ecf4824e0262",
-        "type": "window",
-        "children": [
-          {
-            "id": "992b8b8137430365",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "395917413fa8f27f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 434,
-        "width": 902,
-        "height": 502,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "395917413fa8f27f",
+  "active": "de11efd031caaa0e",
   "lastOpenFiles": [
+    "index.md",
+    "404.md",
+    "7. Параллельно изучаем технологии, которые пригодятся в карьере.md",
+    "6. Решения задач на логику, алгоритмы и структуры данных.md",
+    "5. Делай свои проекты.md",
+    "3. Установка IDE.md",
+    "2. Установка ЯП.md",
+    "7/Markdown-разметка.md",
+    "7/GIT.md",
+    "7/Умение искать в интернете (гуглить).md",
+    "7/Переходи на Linux!.md",
+    "5/Парсинг данных о товаре по артикулу wildberris.md",
+    "2..md",
+    "4. Учим базу выбранного ранее ЯП.md",
+    "1. Выбираем язык программирования.md",
+    "_images/Снимок экрана 2024-08-13 005621.png",
+    "_images/Pasted image 20240813032705.png",
+    "_images/Pasted image 20240813032508.png",
+    "_images/Pasted image 20240813005117.png",
+    "_images/Pasted image 20240813004037.png",
+    "Снимок экрана 2024-08-13 005621.png",
+    "Pasted image 20240813032705.png",
+    "Pasted image 20240813032508.png",
+    "Pasted image 20240813005117.png",
+    "Pasted image 20240813004037.png",
+    "python.org/downloads.md",
+    "python.org",
+    "5/Untitled",
+    "5",
+    "Умение.md",
+    "7/🇺🇸 Английский язык.md",
+    "().md",
     "git.md",
     "Учим базу выбранного ранее языка.md",
     "Установка IDE.md",
     "Установка ЯП.md",
     "Прокачивай навыки решения задач на логику, алгоритмы и структуры данных..md",
     "Делай свои проекты.md",
-    "Английский.md",
-    "index.md",
-    "Переходи на Linux!.md",
-    "image-1.png",
-    "Параллельно изучаем технологии, которые пригодятся в карьере (на других ЯП).md",
-    "image.png"
+    "Английский.md"
   ]
 }

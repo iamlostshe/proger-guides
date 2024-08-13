@@ -38,7 +38,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "showDefaultTreeIcons": false,
+  "showDefaultTreeIcons": true,
   "emojiStyle": "Native",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
